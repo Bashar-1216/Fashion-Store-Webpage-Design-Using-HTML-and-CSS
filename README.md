@@ -31,7 +31,7 @@ Fashion Store Webpage Design Using HTML and CSS/
 ## 🚀 كيفية التشغيل محليًا
 1. استنسخ المستودع إلى جهازك:
    ```bash
-   git clone https://github.com/YourUsername/fashion-store.git
+   git clone https://github.com/YourUsername/Fashion Store Webpage Design Using HTML and CSS.git
    ```
 2. افتح ملف `index.html` باستخدام أي متصفح.
 
