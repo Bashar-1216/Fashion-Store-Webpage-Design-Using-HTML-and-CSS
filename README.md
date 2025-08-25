@@ -16,7 +16,7 @@
 
 ## 📂 هيكل المشروع
 ```
-fashion-store/
+Fashion Store Webpage Design Using HTML and CSS/
 │
 ├── index.html          # الصفحة الرئيسية
 ├── occasions.html      # صفحة المناسبات
